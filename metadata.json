@@ -1,0 +1,6 @@
+{
+  "name": "Karma Accounts & Anke Cloud OS",
+  "description": "Tax Consultancy & Compliance Advisory firm and home of Anke — India's free Tally Prime-style Cloud Accounting and GST Billing OS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
